@@ -1,0 +1,1 @@
+Based on np-admin, this applications allows you to manage photographic contests.
